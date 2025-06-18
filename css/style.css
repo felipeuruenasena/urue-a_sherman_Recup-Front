@@ -384,14 +384,6 @@ style recuperar
       font-size: 0.85rem;
     }
 
-    .footer a {
-      color: #f08c8c;
-      text-decoration: underline;
-    }
-
-    .footer a:hover {
-      color: white;
-    }
 
     hr {
       margin-top: 30px;
