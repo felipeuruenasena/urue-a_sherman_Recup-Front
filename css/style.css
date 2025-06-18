@@ -388,18 +388,3 @@ style recuperar
     small {
       font-size: 0.8rem;
     }
-
-    .btn-guardar {
-  background-color: #ffa726;
-  border: 2px solid #ff9800;
-  color: white;
-  font-weight: bold;
-  padding: 10px 30px;
-  border-radius: 5px;
-  transition: background-color 0.3s, box-shadow 0.3s;
-}
-
-.btn-guardar:hover {
-  background-color: #fb8c00;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-}
