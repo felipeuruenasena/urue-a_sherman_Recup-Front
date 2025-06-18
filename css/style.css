@@ -297,7 +297,7 @@ style recuperar
 
     .links a {
       display: block;
-      color: #1a1a1a;
+      color: #992828;
       text-decoration: none;
       font-size: 0.9rem;
     }
@@ -306,22 +306,7 @@ style recuperar
       color: #b94866;
     }
 
-    .footer {
-      background-color: #002147;
-      color: white;
-      padding: 10px 0;
-      font-size: 0.85rem;
-    }
-
-    .footer a {
-      color: #f08c8c;
-      text-decoration: underline;
-    }
-
-    .footer a:hover {
-      color: rgb(121, 3, 3);
-    }
-
+ 
 
 
     style registrar 
